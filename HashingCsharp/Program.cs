@@ -11,7 +11,7 @@ namespace Hashing
     {
         static void Main(string[] args)
         {
-            Hashing hs = new Hashing();
+            Hashing hs = new Hashing();      // object creation of Hashing class to access it's methods. Please refer Hashing.cs file to see class declaration.
             int userValue = 0;
             do
             {
